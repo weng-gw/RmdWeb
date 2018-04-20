@@ -1,0 +1,14 @@
+---
+title: "Short Bio"
+---
+I was born in Wenzhou, China and lived in Shanghai for 15 years before I came to America. I earned my bachelor's degree in statistics at School of Management, Fudan University, Shanghai, China. I'm a big fan of GNU softwares. I don't  use Windows often, except for playing games and watching videos. I'm single-minded, so I do not use IDEs to write codes. Here is my [CV](file/resume_re.pdf).
+
+---
+
+# Education
+* 2015 - 2020 (expected), PhD in Statistics, School of Statistics, University of Minnesota, Twin Cities.
+* 2010 - 2015, B.S in Statistics, School of Management, Fudan University, Shanghai, China.
+* Fall 2013, Exchange Student, Department of Applied Probability and Statistics, University of California, Santa Barbara
+
+# Work Experience
+* Jul. 2012 - Feb. 2013, Audit Intern, KPMG, Shanghia, China

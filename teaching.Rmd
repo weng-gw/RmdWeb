@@ -1,0 +1,13 @@
+---
+title: "Teaching"
+---
+
+
+
+# Graduate Teaching Assistant
++ Spring 2016: STAT 3011 Introduction to Statistical Analysis with Ning Dai.
++ Summer 2016: STAT 3011 Introduction to Statistical Analysis with [Yuwen Gu](https://stat.uconn.edu/yuwen-gu/).
++ Summer 2017: STAT 3011 Introduction to Statistical Analysis with [Sakshi Arya](https://sites.google.com/a/umn.edu/sakshi-arya/).
++ Fall 2017: STAT 5101 Theory of Statistics I with [Prof. Tiefeng Jiang](http://users.stat.umn.edu/~jiang040/).
++ Spring 2018: STAT 8054 Advanced Statistical Computing with [Prof. Hui Zou](http://users.stat.umn.edu/~zouxx019/) and STAT 8112 Large Sample Theory with  [Prof.Charles Doss](http://users.stat.umn.edu/~cdoss/).
+
