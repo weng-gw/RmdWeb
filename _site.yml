@@ -11,8 +11,16 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
-    - text: "About"
-      href: about.html
+    - text: "More"
+      icon: fa-archive
+      menu:
+        - text: "Linux/Ubuntu"
+          href: linux.html
+        - text: "Statistical computing"
+        - text: "Some things"
+          href: things.html
+        - text: "About"
+          href: about.html
   right:
     - icon: fa-github
       href: https://github.com/weng-gw
@@ -24,3 +32,4 @@ output:
     highlight: textmate
     include: 
       after_body: footer.html
+    css: mystyle.css

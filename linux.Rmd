@@ -1,0 +1,6 @@
+---
+title: "Linux/Ubuntu"
+---
+> In real open source, you have the right to control your own destiny.   ------Linus Trovalds
+
+> Linux is user friendly. It's just very picky about who its friends are. ------Unknown
