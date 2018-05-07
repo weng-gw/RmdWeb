@@ -5,7 +5,7 @@
 
 \ 
 
-Welcome to my home page. I am a PhD student at [School of Statistics, University of Minnesota, Twin Cities](http://www.stat.umn.edu/).
+Welcome to my home page. I am a PhD candidate at [School of Statistics, University of Minnesota, Twin Cities](http://www.stat.umn.edu/).
 
 I am working with Professor [Charles Doss](http://users.stat.umn.edu/~cdoss/) on research problems related to nonparametric function estimation, machine learning and data visualization.
 
